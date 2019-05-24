@@ -1,5 +1,3 @@
-# Introduction-to-In-App-Purchases-and-Ads
-Code repository for Introduction to In-App Purchases and Ads, published by Packt
 # Introduction to In-App Purchases and Ads
 This is the code repository for [Introduction to In-App Purchases and Ads](https://www.packtpub.com/application-development/introduction-ios-sticker-packs-imessage-video?utm_source=github&utm_medium=repository&utm_campaign=9781789801996), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
